@@ -1,2 +1,8 @@
 # Team-Quandary-Peak
-Qingdi,Wen,Candice,Yuxiang,Wenbin
+
+## Team Members
+-Candice Chuang
+-Qingdi Xiao
+-Wen Huang
+-Wenbin Yang
+-Yuxinag Wang
